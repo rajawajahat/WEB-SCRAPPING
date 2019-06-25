@@ -13,3 +13,7 @@ Scrapping script of **WEEKLY WEATHER FORECAST** of 10 major cities of **PAKISTAN
 * Quetta
 * Sukkur
 * Islamabad
+
+## WEBSITE USED
+
+[7 Day Weather Forecast](https://eldoradoweather.com/forecast/pakistan/pakistan-city-forecast-listings-a-z.html)
